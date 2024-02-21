@@ -116,7 +116,7 @@ author:
   
     - label: "Email: tree92345@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tree92345@gmail.com" send email  #"mailto:your.name@email.com"
+      url: "mailto:tree92345@gmail.com"   #"mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ta07yh.github.io" #"https://your-website.com"
