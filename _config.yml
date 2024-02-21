@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-map" #"fa fa-fw fa-map-o" #"fas fa-fw fa-map-o"
       url: "https://www.google.com/maps/place/Frankfurt/@50.0929108,8.643421,11z/data=!4m6!3m5!1s0x47bd096f477096c5:0x422435029b0c600!8m2!3d50.1109221!4d8.6821267!16zL20vMDJ6MGo?entry=ttu"
   
-    - label: "Email: tree92345@gmail.com"
+    - label: "Email" #: tree92345@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tree92345@gmail.com"   #"mailto:your.name@email.com"
     - label: "Website"
