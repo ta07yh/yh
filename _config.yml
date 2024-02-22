@@ -266,6 +266,9 @@ tag_archive:
 category_archive2:
   type: jekyll-archives
   path: /categories/coding  
+category_archive-knowledge:
+  type: jekyll-archives
+  path: /categories/knowledge 
 tag_archive-python:
   type: jekyll-archives
   path: /tags/python 
