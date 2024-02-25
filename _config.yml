@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "TreeSpace" #"Yo Han"
+  name             : "TechSpace" #"Yo Han"
   avatar           : "/assets/images/blog-firstlogo4.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is a blog of TreeSpace."
+  bio              : "This is a blog of TechSpace."
   #location         : "Deutschland"
   email            : 
   links:
